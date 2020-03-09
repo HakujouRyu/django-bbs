@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/hakujou/.local/share/virtualenvs/django-practice-nD2lkVNN/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
